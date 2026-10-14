@@ -1,5 +1,4 @@
 package com.example.invoice;
-
 public class invoiceCalculator {
 
     public double calculateProductAmount(double price, int quantity) {
